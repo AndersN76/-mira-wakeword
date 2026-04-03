@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "mira",
   "author": "Anders",
-  "website": "",
   "version": 2,
   "trained_languages": ["sv"],
   "model": "https://raw.githubusercontent.com/AndersN76/-mira-wakeword/main/mira.tflite",
