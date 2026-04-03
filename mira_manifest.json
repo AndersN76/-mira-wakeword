@@ -3,9 +3,9 @@
   "wake_word": "mira",
   "author": "Anders",
   "website": "",
-  "model": "https://raw.githubusercontent.com/AndersN76/-mira-wakeword/refs/heads/main/mira.tflite",
   "version": 2,
   "trained_languages": ["sv"],
+  "model": "https://github.com/AndersN76/-mira-wakeword/raw/main/mira.tflite",
   "micro": {
     "probability_cutoff": 0.5,
     "sliding_window_size": 10,
