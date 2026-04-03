@@ -7,7 +7,7 @@
   "model_languages": ["sv"],
   "trained_languages": ["sv"],
   "micro": {
-    "model": "mira.tflite",
+    "model": "https://raw.githubusercontent.com/AndersN76/-mira-wakeword/refs/heads/main/mira.tflite",
     "probability_cutoff": 0.5,
     "sliding_window_size": 10,
     "feature_step_size": 10
